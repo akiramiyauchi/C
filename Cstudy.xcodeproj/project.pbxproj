@@ -8,6 +8,106 @@
 
 /* Begin PBXBuildFile section */
 		BAD0740D1C264F9900661939 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0740C1C264F9900661939 /* main.c */; };
+		BAD074921C264FA300661939 /* dbl_digits.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074151C264FA300661939 /* dbl_digits.c */; };
+		BAD074931C264FA300661939 /* max3.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074161C264FA300661939 /* max3.c */; };
+		BAD074941C264FA300661939 /* max3comb.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074171C264FA300661939 /* max3comb.c */; };
+		BAD074951C264FA300661939 /* med3.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074181C264FA300661939 /* med3.c */; };
+		BAD074961C264FA300661939 /* multi99table.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074191C264FA300661939 /* multi99table.c */; };
+		BAD074971C264FA300661939 /* sign.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0741A1C264FA300661939 /* sign.c */; };
+		BAD074981C264FA300661939 /* sum_for.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0741B1C264FA300661939 /* sum_for.c */; };
+		BAD074991C264FA300661939 /* sum_for_pos.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0741C1C264FA300661939 /* sum_for_pos.c */; };
+		BAD0749A1C264FA300661939 /* sum_while.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0741D1C264FA300661939 /* sum_while.c */; };
+		BAD0749B1C264FA300661939 /* triangleLB.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0741E1C264FA300661939 /* triangleLB.c */; };
+		BAD0749C1C264FA300661939 /* ary_max.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074201C264FA300661939 /* ary_max.c */; };
+		BAD0749D1C264FA300661939 /* ary_max_rand.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074211C264FA300661939 /* ary_max_rand.c */; };
+		BAD0749E1C264FA300661939 /* card_conv.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074221C264FA300661939 /* card_conv.c */; };
+		BAD0749F1C264FA300661939 /* dayofyear.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074231C264FA300661939 /* dayofyear.c */; };
+		BAD074A01C264FA300661939 /* intary.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074241C264FA300661939 /* intary.c */; };
+		BAD074A11C264FA300661939 /* intary_dynamic.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074251C264FA300661939 /* intary_dynamic.c */; };
+		BAD074A21C264FA300661939 /* intary_init.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074261C264FA300661939 /* intary_init.c */; };
+		BAD074A31C264FA300661939 /* intdynamic.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074271C264FA300661939 /* intdynamic.c */; };
+		BAD074A41C264FA300661939 /* physical.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074281C264FA300661939 /* physical.c */; };
+		BAD074A51C264FA300661939 /* prime1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074291C264FA300661939 /* prime1.c */; };
+		BAD074A61C264FA300661939 /* prime2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0742A1C264FA300661939 /* prime2.c */; };
+		BAD074A71C264FA300661939 /* prime3.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0742B1C264FA300661939 /* prime3.c */; };
+		BAD074A81C264FA300661939 /* rev_ary.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0742C1C264FA300661939 /* rev_ary.c */; };
+		BAD074A91C264FA300661939 /* bin_search.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0742E1C264FA300661939 /* bin_search.c */; };
+		BAD074AA1C264FA300661939 /* bsearch1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0742F1C264FA300661939 /* bsearch1.c */; };
+		BAD074AB1C264FA300661939 /* bsearch2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074301C264FA300661939 /* bsearch2.c */; };
+		BAD074AC1C264FA300661939 /* bsearch3.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074311C264FA300661939 /* bsearch3.c */; };
+		BAD074AD1C264FA300661939 /* ChainHash.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074321C264FA300661939 /* ChainHash.c */; };
+		BAD074AE1C264FA300661939 /* ChainHashTest.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074341C264FA300661939 /* ChainHashTest.c */; };
+		BAD074AF1C264FA300661939 /* ClosedHash.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074351C264FA300661939 /* ClosedHash.c */; };
+		BAD074B01C264FA300661939 /* ClosedHashTest.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074371C264FA300661939 /* ClosedHashTest.c */; };
+		BAD074B11C264FA300661939 /* kuku.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074381C264FA300661939 /* kuku.c */; };
+		BAD074B21C264FA300661939 /* kuku2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074391C264FA300661939 /* kuku2.c */; };
+		BAD074B31C264FA300661939 /* Member.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0743A1C264FA300661939 /* Member.c */; };
+		BAD074B41C264FA300661939 /* ssearch1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0743C1C264FA300661939 /* ssearch1.c */; };
+		BAD074B51C264FA300661939 /* ssearch2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0743D1C264FA300661939 /* ssearch2.c */; };
+		BAD074B61C264FA300661939 /* ssearch_sen.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0743E1C264FA300661939 /* ssearch_sen.c */; };
+		BAD074B71C264FA300661939 /* IntQueue.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074401C264FA300661939 /* IntQueue.c */; };
+		BAD074B81C264FA300661939 /* IntQueueTest.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074421C264FA300661939 /* IntQueueTest.c */; };
+		BAD074B91C264FA300661939 /* IntStack.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074431C264FA300661939 /* IntStack.c */; };
+		BAD074BA1C264FA300661939 /* IntStackTest.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074451C264FA300661939 /* IntStackTest.c */; };
+		BAD074BB1C264FA300661939 /* last.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074461C264FA300661939 /* last.c */; };
+		BAD074BC1C264FA300661939 /* eight_queen.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074481C264FA300661939 /* eight_queen.c */; };
+		BAD074BD1C264FA300661939 /* euclid.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074491C264FA300661939 /* euclid.c */; };
+		BAD074BE1C264FA300661939 /* factorial.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0744A1C264FA300661939 /* factorial.c */; };
+		BAD074BF1C264FA300661939 /* hanoi.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0744B1C264FA300661939 /* hanoi.c */; };
+		BAD074C01C264FA300661939 /* IntStack.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0744C1C264FA300661939 /* IntStack.c */; };
+		BAD074C11C264FA300661939 /* queen_b.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0744E1C264FA300661939 /* queen_b.c */; };
+		BAD074C21C264FA300661939 /* queen_bb.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0744F1C264FA300661939 /* queen_bb.c */; };
+		BAD074C31C264FA300661939 /* recur.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074501C264FA300661939 /* recur.c */; };
+		BAD074C41C264FA300661939 /* recur_nr1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074511C264FA300661939 /* recur_nr1.c */; };
+		BAD074C51C264FA300661939 /* recur_nr2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074521C264FA300661939 /* recur_nr2.c */; };
+		BAD074C61C264FA300661939 /* bubble1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074541C264FA300661939 /* bubble1.c */; };
+		BAD074C71C264FA300661939 /* bubble2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074551C264FA300661939 /* bubble2.c */; };
+		BAD074C81C264FA300661939 /* bubble3.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074561C264FA300661939 /* bubble3.c */; };
+		BAD074C91C264FA300661939 /* fsort.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074571C264FA300661939 /* fsort.c */; };
+		BAD074CA1C264FA300661939 /* heap.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074581C264FA300661939 /* heap.c */; };
+		BAD074CB1C264FA300661939 /* insertion.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074591C264FA300661939 /* insertion.c */; };
+		BAD074CC1C264FA300661939 /* IntStack.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0745A1C264FA300661939 /* IntStack.c */; };
+		BAD074CD1C264FA300661939 /* merge.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0745C1C264FA300661939 /* merge.c */; };
+		BAD074CE1C264FA300661939 /* merge_ary.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0745D1C264FA300661939 /* merge_ary.c */; };
+		BAD074CF1C264FA300661939 /* partition.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0745E1C264FA300661939 /* partition.c */; };
+		BAD074D01C264FA300661939 /* qsort1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0745F1C264FA300661939 /* qsort1.c */; };
+		BAD074D11C264FA300661939 /* qsort2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074601C264FA300661939 /* qsort2.c */; };
+		BAD074D21C264FA300661939 /* quick.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074611C264FA300661939 /* quick.c */; };
+		BAD074D31C264FA300661939 /* quick_nr.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074621C264FA300661939 /* quick_nr.c */; };
+		BAD074D41C264FA300661939 /* quick_v.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074631C264FA300661939 /* quick_v.c */; };
+		BAD074D51C264FA300661939 /* selection.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074641C264FA300661939 /* selection.c */; };
+		BAD074D61C264FA300661939 /* shell1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074651C264FA300661939 /* shell1.c */; };
+		BAD074D71C264FA300661939 /* shell2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074661C264FA300661939 /* shell2.c */; };
+		BAD074D81C264FA300661939 /* BitSet.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074681C264FA300661939 /* BitSet.c */; };
+		BAD074D91C264FA300661939 /* BitSetTest.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0746A1C264FA300661939 /* BitSetTest.c */; };
+		BAD074DA1C264FA300661939 /* IntSet.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0746B1C264FA300661939 /* IntSet.c */; };
+		BAD074DB1C264FA300661939 /* IntSetTest1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0746D1C264FA300661939 /* IntSetTest1.c */; };
+		BAD074DC1C264FA300661939 /* IntSetTest2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0746E1C264FA300661939 /* IntSetTest2.c */; };
+		BAD074DD1C264FA300661939 /* bf_match.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074701C264FA300661939 /* bf_match.c */; };
+		BAD074DE1C264FA300661939 /* bm_match.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074711C264FA300661939 /* bm_match.c */; };
+		BAD074DF1C264FA300661939 /* kmp_match.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074721C264FA300661939 /* kmp_match.c */; };
+		BAD074E01C264FA300661939 /* str_chr.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074731C264FA300661939 /* str_chr.c */; };
+		BAD074E11C264FA300661939 /* str_cmp.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074741C264FA300661939 /* str_cmp.c */; };
+		BAD074E21C264FA300661939 /* str_len1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074751C264FA300661939 /* str_len1.c */; };
+		BAD074E31C264FA300661939 /* str_len2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074761C264FA300661939 /* str_len2.c */; };
+		BAD074E41C264FA300661939 /* str_len3.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074771C264FA300661939 /* str_len3.c */; };
+		BAD074E51C264FA300661939 /* strary1.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074781C264FA300661939 /* strary1.c */; };
+		BAD074E61C264FA300661939 /* strary2.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074791C264FA300661939 /* strary2.c */; };
+		BAD074E71C264FA300661939 /* strdump.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0747A1C264FA300661939 /* strdump.c */; };
+		BAD074E81C264FA300661939 /* strncmp_test.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0747B1C264FA300661939 /* strncmp_test.c */; };
+		BAD074E91C264FA300661939 /* strptr.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0747C1C264FA300661939 /* strptr.c */; };
+		BAD074EA1C264FA300661939 /* strstr_test.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0747D1C264FA300661939 /* strstr_test.c */; };
+		BAD074EB1C264FA300661939 /* swap_ptr.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0747E1C264FA300661939 /* swap_ptr.c */; };
+		BAD074EC1C264FA300661939 /* ArrayLinkedList.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074801C264FA300661939 /* ArrayLinkedList.c */; };
+		BAD074ED1C264FA300661939 /* ArrayLinkedListTest.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074821C264FA300661939 /* ArrayLinkedListTest.c */; };
+		BAD074EE1C264FA300661939 /* CircDblLinkedList.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074831C264FA300661939 /* CircDblLinkedList.c */; };
+		BAD074EF1C264FA300661939 /* CircDblLinkedListTest.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074851C264FA300661939 /* CircDblLinkedListTest.c */; };
+		BAD074F01C264FA300661939 /* LinkedList.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074861C264FA300661939 /* LinkedList.c */; };
+		BAD074F11C264FA300661939 /* LinkedListTest.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074881C264FA300661939 /* LinkedListTest.c */; };
+		BAD074F21C264FA300661939 /* Member.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD074891C264FA300661939 /* Member.c */; };
+		BAD074F31C264FA300661939 /* BinTree.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0748C1C264FA300661939 /* BinTree.c */; };
+		BAD074F41C264FA300661939 /* BinTreeTest.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0748E1C264FA300661939 /* BinTreeTest.c */; };
+		BAD074F51C264FA300661939 /* Member.c in Sources */ = {isa = PBXBuildFile; fileRef = BAD0748F1C264FA300661939 /* Member.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +125,122 @@
 /* Begin PBXFileReference section */
 		BAD074091C264F9900661939 /* Cstudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Cstudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAD0740C1C264F9900661939 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BAD074151C264FA300661939 /* dbl_digits.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = dbl_digits.c; sourceTree = "<group>"; };
+		BAD074161C264FA300661939 /* max3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = max3.c; sourceTree = "<group>"; };
+		BAD074171C264FA300661939 /* max3comb.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = max3comb.c; sourceTree = "<group>"; };
+		BAD074181C264FA300661939 /* med3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = med3.c; sourceTree = "<group>"; };
+		BAD074191C264FA300661939 /* multi99table.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = multi99table.c; sourceTree = "<group>"; };
+		BAD0741A1C264FA300661939 /* sign.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sign.c; sourceTree = "<group>"; };
+		BAD0741B1C264FA300661939 /* sum_for.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sum_for.c; sourceTree = "<group>"; };
+		BAD0741C1C264FA300661939 /* sum_for_pos.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sum_for_pos.c; sourceTree = "<group>"; };
+		BAD0741D1C264FA300661939 /* sum_while.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sum_while.c; sourceTree = "<group>"; };
+		BAD0741E1C264FA300661939 /* triangleLB.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = triangleLB.c; sourceTree = "<group>"; };
+		BAD074201C264FA300661939 /* ary_max.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ary_max.c; sourceTree = "<group>"; };
+		BAD074211C264FA300661939 /* ary_max_rand.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ary_max_rand.c; sourceTree = "<group>"; };
+		BAD074221C264FA300661939 /* card_conv.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = card_conv.c; sourceTree = "<group>"; };
+		BAD074231C264FA300661939 /* dayofyear.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = dayofyear.c; sourceTree = "<group>"; };
+		BAD074241C264FA300661939 /* intary.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = intary.c; sourceTree = "<group>"; };
+		BAD074251C264FA300661939 /* intary_dynamic.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = intary_dynamic.c; sourceTree = "<group>"; };
+		BAD074261C264FA300661939 /* intary_init.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = intary_init.c; sourceTree = "<group>"; };
+		BAD074271C264FA300661939 /* intdynamic.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = intdynamic.c; sourceTree = "<group>"; };
+		BAD074281C264FA300661939 /* physical.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = physical.c; sourceTree = "<group>"; };
+		BAD074291C264FA300661939 /* prime1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = prime1.c; sourceTree = "<group>"; };
+		BAD0742A1C264FA300661939 /* prime2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = prime2.c; sourceTree = "<group>"; };
+		BAD0742B1C264FA300661939 /* prime3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = prime3.c; sourceTree = "<group>"; };
+		BAD0742C1C264FA300661939 /* rev_ary.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = rev_ary.c; sourceTree = "<group>"; };
+		BAD0742E1C264FA300661939 /* bin_search.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bin_search.c; sourceTree = "<group>"; };
+		BAD0742F1C264FA300661939 /* bsearch1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bsearch1.c; sourceTree = "<group>"; };
+		BAD074301C264FA300661939 /* bsearch2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bsearch2.c; sourceTree = "<group>"; };
+		BAD074311C264FA300661939 /* bsearch3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bsearch3.c; sourceTree = "<group>"; };
+		BAD074321C264FA300661939 /* ChainHash.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ChainHash.c; sourceTree = "<group>"; };
+		BAD074331C264FA300661939 /* ChainHash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChainHash.h; sourceTree = "<group>"; };
+		BAD074341C264FA300661939 /* ChainHashTest.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ChainHashTest.c; sourceTree = "<group>"; };
+		BAD074351C264FA300661939 /* ClosedHash.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ClosedHash.c; sourceTree = "<group>"; };
+		BAD074361C264FA300661939 /* ClosedHash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClosedHash.h; sourceTree = "<group>"; };
+		BAD074371C264FA300661939 /* ClosedHashTest.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ClosedHashTest.c; sourceTree = "<group>"; };
+		BAD074381C264FA300661939 /* kuku.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = kuku.c; sourceTree = "<group>"; };
+		BAD074391C264FA300661939 /* kuku2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = kuku2.c; sourceTree = "<group>"; };
+		BAD0743A1C264FA300661939 /* Member.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Member.c; sourceTree = "<group>"; };
+		BAD0743B1C264FA300661939 /* Member.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Member.h; sourceTree = "<group>"; };
+		BAD0743C1C264FA300661939 /* ssearch1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ssearch1.c; sourceTree = "<group>"; };
+		BAD0743D1C264FA300661939 /* ssearch2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ssearch2.c; sourceTree = "<group>"; };
+		BAD0743E1C264FA300661939 /* ssearch_sen.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ssearch_sen.c; sourceTree = "<group>"; };
+		BAD074401C264FA300661939 /* IntQueue.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = IntQueue.c; sourceTree = "<group>"; };
+		BAD074411C264FA300661939 /* IntQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntQueue.h; sourceTree = "<group>"; };
+		BAD074421C264FA300661939 /* IntQueueTest.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = IntQueueTest.c; sourceTree = "<group>"; };
+		BAD074431C264FA300661939 /* IntStack.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = IntStack.c; sourceTree = "<group>"; };
+		BAD074441C264FA300661939 /* IntStack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntStack.h; sourceTree = "<group>"; };
+		BAD074451C264FA300661939 /* IntStackTest.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = IntStackTest.c; sourceTree = "<group>"; };
+		BAD074461C264FA300661939 /* last.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = last.c; sourceTree = "<group>"; };
+		BAD074481C264FA300661939 /* eight_queen.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = eight_queen.c; sourceTree = "<group>"; };
+		BAD074491C264FA300661939 /* euclid.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = euclid.c; sourceTree = "<group>"; };
+		BAD0744A1C264FA300661939 /* factorial.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = factorial.c; sourceTree = "<group>"; };
+		BAD0744B1C264FA300661939 /* hanoi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = hanoi.c; sourceTree = "<group>"; };
+		BAD0744C1C264FA300661939 /* IntStack.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = IntStack.c; sourceTree = "<group>"; };
+		BAD0744D1C264FA300661939 /* IntStack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntStack.h; sourceTree = "<group>"; };
+		BAD0744E1C264FA300661939 /* queen_b.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = queen_b.c; sourceTree = "<group>"; };
+		BAD0744F1C264FA300661939 /* queen_bb.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = queen_bb.c; sourceTree = "<group>"; };
+		BAD074501C264FA300661939 /* recur.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = recur.c; sourceTree = "<group>"; };
+		BAD074511C264FA300661939 /* recur_nr1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = recur_nr1.c; sourceTree = "<group>"; };
+		BAD074521C264FA300661939 /* recur_nr2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = recur_nr2.c; sourceTree = "<group>"; };
+		BAD074541C264FA300661939 /* bubble1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bubble1.c; sourceTree = "<group>"; };
+		BAD074551C264FA300661939 /* bubble2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bubble2.c; sourceTree = "<group>"; };
+		BAD074561C264FA300661939 /* bubble3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bubble3.c; sourceTree = "<group>"; };
+		BAD074571C264FA300661939 /* fsort.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = fsort.c; sourceTree = "<group>"; };
+		BAD074581C264FA300661939 /* heap.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = heap.c; sourceTree = "<group>"; };
+		BAD074591C264FA300661939 /* insertion.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = insertion.c; sourceTree = "<group>"; };
+		BAD0745A1C264FA300661939 /* IntStack.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = IntStack.c; sourceTree = "<group>"; };
+		BAD0745B1C264FA300661939 /* IntStack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntStack.h; sourceTree = "<group>"; };
+		BAD0745C1C264FA300661939 /* merge.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = merge.c; sourceTree = "<group>"; };
+		BAD0745D1C264FA300661939 /* merge_ary.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = merge_ary.c; sourceTree = "<group>"; };
+		BAD0745E1C264FA300661939 /* partition.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = partition.c; sourceTree = "<group>"; };
+		BAD0745F1C264FA300661939 /* qsort1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = qsort1.c; sourceTree = "<group>"; };
+		BAD074601C264FA300661939 /* qsort2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = qsort2.c; sourceTree = "<group>"; };
+		BAD074611C264FA300661939 /* quick.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = quick.c; sourceTree = "<group>"; };
+		BAD074621C264FA300661939 /* quick_nr.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = quick_nr.c; sourceTree = "<group>"; };
+		BAD074631C264FA300661939 /* quick_v.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = quick_v.c; sourceTree = "<group>"; };
+		BAD074641C264FA300661939 /* selection.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = selection.c; sourceTree = "<group>"; };
+		BAD074651C264FA300661939 /* shell1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = shell1.c; sourceTree = "<group>"; };
+		BAD074661C264FA300661939 /* shell2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = shell2.c; sourceTree = "<group>"; };
+		BAD074681C264FA300661939 /* BitSet.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = BitSet.c; sourceTree = "<group>"; };
+		BAD074691C264FA300661939 /* BitSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BitSet.h; sourceTree = "<group>"; };
+		BAD0746A1C264FA300661939 /* BitSetTest.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = BitSetTest.c; sourceTree = "<group>"; };
+		BAD0746B1C264FA300661939 /* IntSet.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = IntSet.c; sourceTree = "<group>"; };
+		BAD0746C1C264FA300661939 /* IntSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntSet.h; sourceTree = "<group>"; };
+		BAD0746D1C264FA300661939 /* IntSetTest1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = IntSetTest1.c; sourceTree = "<group>"; };
+		BAD0746E1C264FA300661939 /* IntSetTest2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = IntSetTest2.c; sourceTree = "<group>"; };
+		BAD074701C264FA300661939 /* bf_match.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bf_match.c; sourceTree = "<group>"; };
+		BAD074711C264FA300661939 /* bm_match.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bm_match.c; sourceTree = "<group>"; };
+		BAD074721C264FA300661939 /* kmp_match.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = kmp_match.c; sourceTree = "<group>"; };
+		BAD074731C264FA300661939 /* str_chr.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = str_chr.c; sourceTree = "<group>"; };
+		BAD074741C264FA300661939 /* str_cmp.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = str_cmp.c; sourceTree = "<group>"; };
+		BAD074751C264FA300661939 /* str_len1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = str_len1.c; sourceTree = "<group>"; };
+		BAD074761C264FA300661939 /* str_len2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = str_len2.c; sourceTree = "<group>"; };
+		BAD074771C264FA300661939 /* str_len3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = str_len3.c; sourceTree = "<group>"; };
+		BAD074781C264FA300661939 /* strary1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strary1.c; sourceTree = "<group>"; };
+		BAD074791C264FA300661939 /* strary2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strary2.c; sourceTree = "<group>"; };
+		BAD0747A1C264FA300661939 /* strdump.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strdump.c; sourceTree = "<group>"; };
+		BAD0747B1C264FA300661939 /* strncmp_test.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strncmp_test.c; sourceTree = "<group>"; };
+		BAD0747C1C264FA300661939 /* strptr.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strptr.c; sourceTree = "<group>"; };
+		BAD0747D1C264FA300661939 /* strstr_test.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strstr_test.c; sourceTree = "<group>"; };
+		BAD0747E1C264FA300661939 /* swap_ptr.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = swap_ptr.c; sourceTree = "<group>"; };
+		BAD074801C264FA300661939 /* ArrayLinkedList.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ArrayLinkedList.c; sourceTree = "<group>"; };
+		BAD074811C264FA300661939 /* ArrayLinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArrayLinkedList.h; sourceTree = "<group>"; };
+		BAD074821C264FA300661939 /* ArrayLinkedListTest.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ArrayLinkedListTest.c; sourceTree = "<group>"; };
+		BAD074831C264FA300661939 /* CircDblLinkedList.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = CircDblLinkedList.c; sourceTree = "<group>"; };
+		BAD074841C264FA300661939 /* CircDblLinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircDblLinkedList.h; sourceTree = "<group>"; };
+		BAD074851C264FA300661939 /* CircDblLinkedListTest.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = CircDblLinkedListTest.c; sourceTree = "<group>"; };
+		BAD074861C264FA300661939 /* LinkedList.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = LinkedList.c; sourceTree = "<group>"; };
+		BAD074871C264FA300661939 /* LinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedList.h; sourceTree = "<group>"; };
+		BAD074881C264FA300661939 /* LinkedListTest.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = LinkedListTest.c; sourceTree = "<group>"; };
+		BAD074891C264FA300661939 /* Member.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Member.c; sourceTree = "<group>"; };
+		BAD0748A1C264FA300661939 /* Member.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Member.h; sourceTree = "<group>"; };
+		BAD0748C1C264FA300661939 /* BinTree.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = BinTree.c; sourceTree = "<group>"; };
+		BAD0748D1C264FA300661939 /* BinTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BinTree.h; sourceTree = "<group>"; };
+		BAD0748E1C264FA300661939 /* BinTreeTest.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = BinTreeTest.c; sourceTree = "<group>"; };
+		BAD0748F1C264FA300661939 /* Member.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Member.c; sourceTree = "<group>"; };
+		BAD074901C264FA300661939 /* Member.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Member.h; sourceTree = "<group>"; };
+		BAD074911C264FA300661939 /* readme.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = readme.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +273,213 @@
 		BAD0740B1C264F9900661939 /* Cstudy */ = {
 			isa = PBXGroup;
 			children = (
+				BAD074131C264FA300661939 /* SOURCE */,
 				BAD0740C1C264F9900661939 /* main.c */,
 			);
 			path = Cstudy;
+			sourceTree = "<group>";
+		};
+		BAD074131C264FA300661939 /* SOURCE */ = {
+			isa = PBXGroup;
+			children = (
+				BAD074141C264FA300661939 /* chap01 */,
+				BAD0741F1C264FA300661939 /* chap02 */,
+				BAD0742D1C264FA300661939 /* chap03 */,
+				BAD0743F1C264FA300661939 /* chap04 */,
+				BAD074471C264FA300661939 /* chap05 */,
+				BAD074531C264FA300661939 /* chap06 */,
+				BAD074671C264FA300661939 /* chap07 */,
+				BAD0746F1C264FA300661939 /* chap08 */,
+				BAD0747F1C264FA300661939 /* chap09 */,
+				BAD0748B1C264FA300661939 /* chap10 */,
+				BAD074911C264FA300661939 /* readme.html */,
+			);
+			path = SOURCE;
+			sourceTree = "<group>";
+		};
+		BAD074141C264FA300661939 /* chap01 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD074151C264FA300661939 /* dbl_digits.c */,
+				BAD074161C264FA300661939 /* max3.c */,
+				BAD074171C264FA300661939 /* max3comb.c */,
+				BAD074181C264FA300661939 /* med3.c */,
+				BAD074191C264FA300661939 /* multi99table.c */,
+				BAD0741A1C264FA300661939 /* sign.c */,
+				BAD0741B1C264FA300661939 /* sum_for.c */,
+				BAD0741C1C264FA300661939 /* sum_for_pos.c */,
+				BAD0741D1C264FA300661939 /* sum_while.c */,
+				BAD0741E1C264FA300661939 /* triangleLB.c */,
+			);
+			path = chap01;
+			sourceTree = "<group>";
+		};
+		BAD0741F1C264FA300661939 /* chap02 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD074201C264FA300661939 /* ary_max.c */,
+				BAD074211C264FA300661939 /* ary_max_rand.c */,
+				BAD074221C264FA300661939 /* card_conv.c */,
+				BAD074231C264FA300661939 /* dayofyear.c */,
+				BAD074241C264FA300661939 /* intary.c */,
+				BAD074251C264FA300661939 /* intary_dynamic.c */,
+				BAD074261C264FA300661939 /* intary_init.c */,
+				BAD074271C264FA300661939 /* intdynamic.c */,
+				BAD074281C264FA300661939 /* physical.c */,
+				BAD074291C264FA300661939 /* prime1.c */,
+				BAD0742A1C264FA300661939 /* prime2.c */,
+				BAD0742B1C264FA300661939 /* prime3.c */,
+				BAD0742C1C264FA300661939 /* rev_ary.c */,
+			);
+			path = chap02;
+			sourceTree = "<group>";
+		};
+		BAD0742D1C264FA300661939 /* chap03 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD0742E1C264FA300661939 /* bin_search.c */,
+				BAD0742F1C264FA300661939 /* bsearch1.c */,
+				BAD074301C264FA300661939 /* bsearch2.c */,
+				BAD074311C264FA300661939 /* bsearch3.c */,
+				BAD074321C264FA300661939 /* ChainHash.c */,
+				BAD074331C264FA300661939 /* ChainHash.h */,
+				BAD074341C264FA300661939 /* ChainHashTest.c */,
+				BAD074351C264FA300661939 /* ClosedHash.c */,
+				BAD074361C264FA300661939 /* ClosedHash.h */,
+				BAD074371C264FA300661939 /* ClosedHashTest.c */,
+				BAD074381C264FA300661939 /* kuku.c */,
+				BAD074391C264FA300661939 /* kuku2.c */,
+				BAD0743A1C264FA300661939 /* Member.c */,
+				BAD0743B1C264FA300661939 /* Member.h */,
+				BAD0743C1C264FA300661939 /* ssearch1.c */,
+				BAD0743D1C264FA300661939 /* ssearch2.c */,
+				BAD0743E1C264FA300661939 /* ssearch_sen.c */,
+			);
+			path = chap03;
+			sourceTree = "<group>";
+		};
+		BAD0743F1C264FA300661939 /* chap04 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD074401C264FA300661939 /* IntQueue.c */,
+				BAD074411C264FA300661939 /* IntQueue.h */,
+				BAD074421C264FA300661939 /* IntQueueTest.c */,
+				BAD074431C264FA300661939 /* IntStack.c */,
+				BAD074441C264FA300661939 /* IntStack.h */,
+				BAD074451C264FA300661939 /* IntStackTest.c */,
+				BAD074461C264FA300661939 /* last.c */,
+			);
+			path = chap04;
+			sourceTree = "<group>";
+		};
+		BAD074471C264FA300661939 /* chap05 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD074481C264FA300661939 /* eight_queen.c */,
+				BAD074491C264FA300661939 /* euclid.c */,
+				BAD0744A1C264FA300661939 /* factorial.c */,
+				BAD0744B1C264FA300661939 /* hanoi.c */,
+				BAD0744C1C264FA300661939 /* IntStack.c */,
+				BAD0744D1C264FA300661939 /* IntStack.h */,
+				BAD0744E1C264FA300661939 /* queen_b.c */,
+				BAD0744F1C264FA300661939 /* queen_bb.c */,
+				BAD074501C264FA300661939 /* recur.c */,
+				BAD074511C264FA300661939 /* recur_nr1.c */,
+				BAD074521C264FA300661939 /* recur_nr2.c */,
+			);
+			path = chap05;
+			sourceTree = "<group>";
+		};
+		BAD074531C264FA300661939 /* chap06 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD074541C264FA300661939 /* bubble1.c */,
+				BAD074551C264FA300661939 /* bubble2.c */,
+				BAD074561C264FA300661939 /* bubble3.c */,
+				BAD074571C264FA300661939 /* fsort.c */,
+				BAD074581C264FA300661939 /* heap.c */,
+				BAD074591C264FA300661939 /* insertion.c */,
+				BAD0745A1C264FA300661939 /* IntStack.c */,
+				BAD0745B1C264FA300661939 /* IntStack.h */,
+				BAD0745C1C264FA300661939 /* merge.c */,
+				BAD0745D1C264FA300661939 /* merge_ary.c */,
+				BAD0745E1C264FA300661939 /* partition.c */,
+				BAD0745F1C264FA300661939 /* qsort1.c */,
+				BAD074601C264FA300661939 /* qsort2.c */,
+				BAD074611C264FA300661939 /* quick.c */,
+				BAD074621C264FA300661939 /* quick_nr.c */,
+				BAD074631C264FA300661939 /* quick_v.c */,
+				BAD074641C264FA300661939 /* selection.c */,
+				BAD074651C264FA300661939 /* shell1.c */,
+				BAD074661C264FA300661939 /* shell2.c */,
+			);
+			path = chap06;
+			sourceTree = "<group>";
+		};
+		BAD074671C264FA300661939 /* chap07 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD074681C264FA300661939 /* BitSet.c */,
+				BAD074691C264FA300661939 /* BitSet.h */,
+				BAD0746A1C264FA300661939 /* BitSetTest.c */,
+				BAD0746B1C264FA300661939 /* IntSet.c */,
+				BAD0746C1C264FA300661939 /* IntSet.h */,
+				BAD0746D1C264FA300661939 /* IntSetTest1.c */,
+				BAD0746E1C264FA300661939 /* IntSetTest2.c */,
+			);
+			path = chap07;
+			sourceTree = "<group>";
+		};
+		BAD0746F1C264FA300661939 /* chap08 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD074701C264FA300661939 /* bf_match.c */,
+				BAD074711C264FA300661939 /* bm_match.c */,
+				BAD074721C264FA300661939 /* kmp_match.c */,
+				BAD074731C264FA300661939 /* str_chr.c */,
+				BAD074741C264FA300661939 /* str_cmp.c */,
+				BAD074751C264FA300661939 /* str_len1.c */,
+				BAD074761C264FA300661939 /* str_len2.c */,
+				BAD074771C264FA300661939 /* str_len3.c */,
+				BAD074781C264FA300661939 /* strary1.c */,
+				BAD074791C264FA300661939 /* strary2.c */,
+				BAD0747A1C264FA300661939 /* strdump.c */,
+				BAD0747B1C264FA300661939 /* strncmp_test.c */,
+				BAD0747C1C264FA300661939 /* strptr.c */,
+				BAD0747D1C264FA300661939 /* strstr_test.c */,
+				BAD0747E1C264FA300661939 /* swap_ptr.c */,
+			);
+			path = chap08;
+			sourceTree = "<group>";
+		};
+		BAD0747F1C264FA300661939 /* chap09 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD074801C264FA300661939 /* ArrayLinkedList.c */,
+				BAD074811C264FA300661939 /* ArrayLinkedList.h */,
+				BAD074821C264FA300661939 /* ArrayLinkedListTest.c */,
+				BAD074831C264FA300661939 /* CircDblLinkedList.c */,
+				BAD074841C264FA300661939 /* CircDblLinkedList.h */,
+				BAD074851C264FA300661939 /* CircDblLinkedListTest.c */,
+				BAD074861C264FA300661939 /* LinkedList.c */,
+				BAD074871C264FA300661939 /* LinkedList.h */,
+				BAD074881C264FA300661939 /* LinkedListTest.c */,
+				BAD074891C264FA300661939 /* Member.c */,
+				BAD0748A1C264FA300661939 /* Member.h */,
+			);
+			path = chap09;
+			sourceTree = "<group>";
+		};
+		BAD0748B1C264FA300661939 /* chap10 */ = {
+			isa = PBXGroup;
+			children = (
+				BAD0748C1C264FA300661939 /* BinTree.c */,
+				BAD0748D1C264FA300661939 /* BinTree.h */,
+				BAD0748E1C264FA300661939 /* BinTreeTest.c */,
+				BAD0748F1C264FA300661939 /* Member.c */,
+				BAD074901C264FA300661939 /* Member.h */,
+			);
+			path = chap10;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +538,107 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAD074C31C264FA300661939 /* recur.c in Sources */,
+				BAD074DD1C264FA300661939 /* bf_match.c in Sources */,
+				BAD074AD1C264FA300661939 /* ChainHash.c in Sources */,
+				BAD074A51C264FA300661939 /* prime1.c in Sources */,
+				BAD074D01C264FA300661939 /* qsort1.c in Sources */,
+				BAD074ED1C264FA300661939 /* ArrayLinkedListTest.c in Sources */,
+				BAD074CB1C264FA300661939 /* insertion.c in Sources */,
+				BAD074CA1C264FA300661939 /* heap.c in Sources */,
+				BAD074C91C264FA300661939 /* fsort.c in Sources */,
+				BAD074A71C264FA300661939 /* prime3.c in Sources */,
+				BAD074E51C264FA300661939 /* strary1.c in Sources */,
+				BAD074D41C264FA300661939 /* quick_v.c in Sources */,
+				BAD074A41C264FA300661939 /* physical.c in Sources */,
+				BAD074D71C264FA300661939 /* shell2.c in Sources */,
+				BAD074EA1C264FA300661939 /* strstr_test.c in Sources */,
+				BAD074D61C264FA300661939 /* shell1.c in Sources */,
+				BAD074F01C264FA300661939 /* LinkedList.c in Sources */,
+				BAD074A61C264FA300661939 /* prime2.c in Sources */,
+				BAD074B41C264FA300661939 /* ssearch1.c in Sources */,
+				BAD074A91C264FA300661939 /* bin_search.c in Sources */,
+				BAD074B21C264FA300661939 /* kuku2.c in Sources */,
+				BAD074E21C264FA300661939 /* str_len1.c in Sources */,
+				BAD074F11C264FA300661939 /* LinkedListTest.c in Sources */,
+				BAD074F51C264FA300661939 /* Member.c in Sources */,
+				BAD074B71C264FA300661939 /* IntQueue.c in Sources */,
+				BAD074C11C264FA300661939 /* queen_b.c in Sources */,
+				BAD074F31C264FA300661939 /* BinTree.c in Sources */,
+				BAD074C61C264FA300661939 /* bubble1.c in Sources */,
+				BAD074B61C264FA300661939 /* ssearch_sen.c in Sources */,
+				BAD074A21C264FA300661939 /* intary_init.c in Sources */,
+				BAD074A01C264FA300661939 /* intary.c in Sources */,
+				BAD074951C264FA300661939 /* med3.c in Sources */,
+				BAD074DC1C264FA300661939 /* IntSetTest2.c in Sources */,
+				BAD074AA1C264FA300661939 /* bsearch1.c in Sources */,
+				BAD074C81C264FA300661939 /* bubble3.c in Sources */,
+				BAD074CE1C264FA300661939 /* merge_ary.c in Sources */,
+				BAD074F41C264FA300661939 /* BinTreeTest.c in Sources */,
+				BAD0749E1C264FA300661939 /* card_conv.c in Sources */,
+				BAD074CF1C264FA300661939 /* partition.c in Sources */,
+				BAD074D31C264FA300661939 /* quick_nr.c in Sources */,
+				BAD074E01C264FA300661939 /* str_chr.c in Sources */,
+				BAD074AB1C264FA300661939 /* bsearch2.c in Sources */,
+				BAD074EC1C264FA300661939 /* ArrayLinkedList.c in Sources */,
+				BAD0749F1C264FA300661939 /* dayofyear.c in Sources */,
+				BAD074DB1C264FA300661939 /* IntSetTest1.c in Sources */,
+				BAD074BE1C264FA300661939 /* factorial.c in Sources */,
+				BAD074971C264FA300661939 /* sign.c in Sources */,
+				BAD074E61C264FA300661939 /* strary2.c in Sources */,
+				BAD074E71C264FA300661939 /* strdump.c in Sources */,
+				BAD074A81C264FA300661939 /* rev_ary.c in Sources */,
+				BAD074921C264FA300661939 /* dbl_digits.c in Sources */,
+				BAD074D11C264FA300661939 /* qsort2.c in Sources */,
+				BAD074D81C264FA300661939 /* BitSet.c in Sources */,
+				BAD074BC1C264FA300661939 /* eight_queen.c in Sources */,
+				BAD074D21C264FA300661939 /* quick.c in Sources */,
+				BAD074C51C264FA300661939 /* recur_nr2.c in Sources */,
+				BAD074961C264FA300661939 /* multi99table.c in Sources */,
+				BAD074CD1C264FA300661939 /* merge.c in Sources */,
+				BAD074991C264FA300661939 /* sum_for_pos.c in Sources */,
+				BAD074CC1C264FA300661939 /* IntStack.c in Sources */,
+				BAD0749A1C264FA300661939 /* sum_while.c in Sources */,
+				BAD074E31C264FA300661939 /* str_len2.c in Sources */,
+				BAD074DF1C264FA300661939 /* kmp_match.c in Sources */,
+				BAD074AF1C264FA300661939 /* ClosedHash.c in Sources */,
+				BAD074BD1C264FA300661939 /* euclid.c in Sources */,
+				BAD074AC1C264FA300661939 /* bsearch3.c in Sources */,
+				BAD074B51C264FA300661939 /* ssearch2.c in Sources */,
+				BAD074BA1C264FA300661939 /* IntStackTest.c in Sources */,
+				BAD074E91C264FA300661939 /* strptr.c in Sources */,
+				BAD074BF1C264FA300661939 /* hanoi.c in Sources */,
+				BAD074941C264FA300661939 /* max3comb.c in Sources */,
+				BAD074DA1C264FA300661939 /* IntSet.c in Sources */,
+				BAD074AE1C264FA300661939 /* ChainHashTest.c in Sources */,
+				BAD074B31C264FA300661939 /* Member.c in Sources */,
+				BAD0749C1C264FA300661939 /* ary_max.c in Sources */,
+				BAD074A31C264FA300661939 /* intdynamic.c in Sources */,
+				BAD074F21C264FA300661939 /* Member.c in Sources */,
+				BAD074981C264FA300661939 /* sum_for.c in Sources */,
+				BAD0749B1C264FA300661939 /* triangleLB.c in Sources */,
+				BAD074931C264FA300661939 /* max3.c in Sources */,
+				BAD074EF1C264FA300661939 /* CircDblLinkedListTest.c in Sources */,
+				BAD0749D1C264FA300661939 /* ary_max_rand.c in Sources */,
+				BAD074EB1C264FA300661939 /* swap_ptr.c in Sources */,
+				BAD074B11C264FA300661939 /* kuku.c in Sources */,
 				BAD0740D1C264F9900661939 /* main.c in Sources */,
+				BAD074A11C264FA300661939 /* intary_dynamic.c in Sources */,
+				BAD074C41C264FA300661939 /* recur_nr1.c in Sources */,
+				BAD074B91C264FA300661939 /* IntStack.c in Sources */,
+				BAD074D51C264FA300661939 /* selection.c in Sources */,
+				BAD074E81C264FA300661939 /* strncmp_test.c in Sources */,
+				BAD074C01C264FA300661939 /* IntStack.c in Sources */,
+				BAD074E11C264FA300661939 /* str_cmp.c in Sources */,
+				BAD074B01C264FA300661939 /* ClosedHashTest.c in Sources */,
+				BAD074E41C264FA300661939 /* str_len3.c in Sources */,
+				BAD074DE1C264FA300661939 /* bm_match.c in Sources */,
+				BAD074D91C264FA300661939 /* BitSetTest.c in Sources */,
+				BAD074BB1C264FA300661939 /* last.c in Sources */,
+				BAD074C71C264FA300661939 /* bubble2.c in Sources */,
+				BAD074C21C264FA300661939 /* queen_bb.c in Sources */,
+				BAD074EE1C264FA300661939 /* CircDblLinkedList.c in Sources */,
+				BAD074B81C264FA300661939 /* IntQueueTest.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
